@@ -1,5 +1,4 @@
-# advanced-programming-assignment
-### University of York, MSc Computer Science with AI, Advanced Programming Summative Assignment
+### University of York, MSc Computer Science with AI, Advanced Programming Assignment
 
 A prototype application that demonstrates how data from CSV data sets can be formatted, cleaned, and used to generate specific outputs, including: 
 
